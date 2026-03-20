@@ -1,0 +1,14 @@
+{
+  "name": "solana-token-launcher-lite",
+  "version": "1.0.0",
+  "description": "Professional SPL Token creator",
+  "main": "launcher.js",
+  "dependencies": {
+    "@solana/web3.js": "^1.87.0",
+    "@solana/spl-token": "^0.3.9",
+    "bs58": "^5.0.0"
+  },
+  "scripts": {
+    "start": "node launcher.js"
+  }
+}
